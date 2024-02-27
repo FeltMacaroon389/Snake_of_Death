@@ -1,5 +1,6 @@
 <h1>Snake_of_Death! (SOD)</h1>
 A simple Snake game that destroys your entire fucking computer if you die (: 
+<h5>(Inspiration from https://github.com/QwertyL0L/Snake32)</h5>
 
 <h3>Usage:</h3>
 <p>Download the "SOD.py" or "SOD.exe" file.</p>
